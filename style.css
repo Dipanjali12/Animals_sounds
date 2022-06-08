@@ -1,0 +1,32 @@
+body{
+background-color: rgb(216, 95, 115);
+font-family:cursive ;
+height: 600px;
+color: black;
+}
+
+.header_div{
+background-color: blanchedalmond;
+color: darkred;
+text-align: center;
+font-family: 'Tiro Telugu', serif;
+font-size: 30px;
+}
+
+p{
+    color: rgb(244, 49, 49);
+    font-size: 15px;
+}
+
+.footer_div{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: bisque;
+    color: black;
+    text-align: center;
+    line-height: 3;
+    letter-spacing: 3px;
+    font-size: 20px;
+    text-shadow: 3px 3px 3px red;
+}
